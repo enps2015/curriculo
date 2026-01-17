@@ -5,7 +5,7 @@ Este repositório centraliza as principais informações sobre minha carreira e 
 
 *   **[cv.md](https://github.com/enps2015/curriculo/blob/main/cv.md)** — versão completa do currículo em Markdown, com histórico profissional, educação, competências técnicas, projetos e conquistas.
     
-*   **CV\_Eric\_Pimentel\_Dados\_17.01.2026v1.pdf** — versão em PDF do currículo, preservando o layout e detalhes completos.
+*   **[CV\_Eric\_Pimentel\_Dados.pdf](https://github.com/enps2015/curriculo/blob/main/CV_Eric_Pimentel_Dados.pdf)** — versão em PDF do currículo, preservando o layout e detalhes completos.
     
 *   **[courses.md](https://github.com/enps2015/curriculo/blob/main/courses.md)** — lista de cursos e certificações relevantes organizadas por área de estudo (Ciência de Dados, IA, Cloud, DevOps, Business Intelligence, Segurança, IoT e Gestão), para facilitar a leitura de recrutadores.
     
@@ -15,7 +15,7 @@ Como usar
 
 *   Visualize o currículo em Markdown acessando **[cv.md](https://github.com/enps2015/curriculo/blob/main/cv.md)**.
     
-*   Baixe a versão em PDF se preferir compartilhar o documento.
+*   Baixe a versão em [PDF](https://github.com/enps2015/curriculo/blob/main/CV_Eric_Pimentel_Dados.pdf) se preferir compartilhar o documento.
     
 *   Consulte **[courses.md](https://github.com/enps2015/curriculo/blob/main/courses.md)** para um panorama das principais certificações.
     
